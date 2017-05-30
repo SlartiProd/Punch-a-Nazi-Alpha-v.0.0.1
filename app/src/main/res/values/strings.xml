@@ -4,6 +4,5 @@
     <string name="title_activity_fullscreen">FullscreenActivity</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
-    <string name="credits">SlartiProd\nCreative Commons Attribution-NonCommercial-ShareAlike 3.0
-    </string>
+    <string name="credits">SlartiProd\nAll content and idea published under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License</string>
 </resources>
